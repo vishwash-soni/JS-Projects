@@ -30,7 +30,7 @@ To run any of the projects, simply open the corresponding HTML file in your web 
 1. **Project 1**: To-Do List
 2. **Project 2**: Calculator
 3. **Project 3**: Stopwatch
-4. **Project 4**: Random Quote Generator
+4. **Project 4**: Random Password Generator
 5. **Project 5**: Image Slider
 6. **Project 6**: Form Validation
 7. **Project 7**: Weather App
