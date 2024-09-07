@@ -15,3 +15,7 @@ This project is a simple, responsive web application that allows users to create
 - HTML5
 - CSS3
 - JavaScript (with local storage)
+
+## Live Demo
+
+Check out the live demo: [Notes Making Web App](https://notes-soni.netlify.app/)
